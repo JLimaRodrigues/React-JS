@@ -22,6 +22,6 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    "react/jsx-filename-extension": [1, { "ignoreFilesWithoutCode": true }];
+    "react/jsx-filename-extension": [1, { "ignoreFilesWithoutCode": true }]
   },
 };
